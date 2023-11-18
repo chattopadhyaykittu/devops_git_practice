@@ -4,4 +4,4 @@ This is the bug fix in development branc
 
 This is gadbad code
 
-This feature will gadbad everything from now.
+ (Added feature2 in development branch)
